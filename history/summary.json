@@ -4,19 +4,19 @@
     "url": "https://gilou3000.duckdns.org/",
     "icon": "https://favicons.githubusercontent.com/gilou3000.duckdns.org",
     "slug": "gilou3000",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 544,
-    "timeDay": 544,
-    "timeWeek": 544,
-    "timeMonth": 544,
-    "timeYear": 544,
+    "status": "up",
+    "uptime": "41.19%",
+    "uptimeDay": "41.19%",
+    "uptimeWeek": "41.19%",
+    "uptimeMonth": "41.19%",
+    "uptimeYear": "41.19%",
+    "time": 545,
+    "timeDay": 545,
+    "timeWeek": 545,
+    "timeMonth": 545,
+    "timeYear": 545,
     "dailyMinutesDown": {
-      "2021-08-16": 0
+      "2021-08-16": 25
     }
   },
   {
