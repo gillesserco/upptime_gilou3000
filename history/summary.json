@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/gilou3000.duckdns.org",
     "slug": "gilou3000",
     "status": "up",
-    "uptime": "96.43%",
+    "uptime": "97.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "96.43%",
-    "uptimeYear": "96.43%",
-    "time": 683,
-    "timeDay": 788,
-    "timeWeek": 683,
-    "timeMonth": 683,
-    "timeYear": 683,
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "97.48%",
+    "uptimeYear": "97.48%",
+    "time": 703,
+    "timeDay": 820,
+    "timeWeek": 703,
+    "timeMonth": 703,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2021-08-16": 124
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 301,
-    "timeWeek": 330,
-    "timeMonth": 330,
-    "timeYear": 330,
+    "time": 336,
+    "timeDay": 370,
+    "timeWeek": 336,
+    "timeMonth": 336,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   }
 ]
