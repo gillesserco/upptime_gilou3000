@@ -8,7 +8,7 @@ sites:
   - name: champdor
     url: http://champdor.duckdns.org:8123/
   - name: charancieu
-    url: http://http://gizeh738.duckdns.org/
+    url: http://gizeh738.duckdns.org/
 
 
 status-website:
