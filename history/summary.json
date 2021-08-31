@@ -43,18 +43,19 @@
     "icon": "https://favicons.githubusercontent.com/gizeh738.duckdns.org",
     "slug": "charancieu",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.55%",
+    "uptimeDay": "96.60%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 635,
     "timeDay": 1043,
     "timeWeek": 560,
     "timeMonth": 635,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2021-08-30": 0
+      "2021-08-31": 37,
+      "2021-08-30": 12
     }
   }
 ]
