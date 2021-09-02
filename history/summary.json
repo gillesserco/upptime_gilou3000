@@ -24,10 +24,10 @@
     "url": "http://champdor.duckdns.org:8123/",
     "icon": "https://favicons.githubusercontent.com/champdor.duckdns.org",
     "slug": "champdor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 444,
@@ -35,7 +35,9 @@
     "timeWeek": 517,
     "timeMonth": 444,
     "timeYear": 444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-02": 1
+    }
   },
   {
     "name": "charancieu",
@@ -43,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/gizeh738.duckdns.org",
     "slug": "charancieu",
     "status": "down",
-    "uptime": "78.67%",
+    "uptime": "76.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "70.95%",
-    "uptimeMonth": "78.67%",
-    "uptimeYear": "78.67%",
+    "uptimeWeek": "66.87%",
+    "uptimeMonth": "76.38%",
+    "uptimeYear": "76.38%",
     "time": 635,
     "timeDay": 0,
     "timeWeek": 583,
     "timeMonth": 635,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2021-09-02": 36,
+      "2021-09-02": 448,
       "2021-09-01": 1440,
       "2021-08-31": 1440,
       "2021-08-30": 12
